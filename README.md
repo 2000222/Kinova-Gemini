@@ -3,7 +3,9 @@ We present the original “Kinova Gemini”, a robotic system that successfully 
 
 
 ## Robot Perception
+1. GGCNN: https://github.com/dougsm/ggcnn
 
+2. YOLO v3: https://pjreddie.com/darknet/yolo/
 
 ## Grasping Execution
 
