@@ -9,4 +9,5 @@ We present the original “Kinova Gemini”, a robotic system that successfully 
 
 
 ## Experiment Results
-More successful "Kinova Gemini" experiment videos can refer to 
+More successful "Kinova Gemini" experiment videos can refer to https://pan.baidu.com/s/
+1pNNbw-8OKsI2NtktciRnrg (key:c1b1)
