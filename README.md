@@ -4,7 +4,9 @@ We present the original “Kinova Gemini”, a robotic system that successfully 
 
 ## Robot Perception
 
+
 ## Grasping Execution
 
-## Experimental Results
+
+## Experiment Results
 More successful "Kinova Gemini" experiment videos can refer to 
