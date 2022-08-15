@@ -8,7 +8,9 @@ We present the original “Kinova Gemini”, a robotic system that successfully 
 2. YOLO v3: https://pjreddie.com/darknet/yolo/
 
 ## Grasping Execution
-ROS Kortex: https://github.com/Kinovarobotics/ros_kortex
+1. ROS Kortex: https://github.com/Kinovarobotics/ros_kortex
+
+2. MoveIt: https://moveit.ros.org/
 
 ## Experiment Results
 More successful "Kinova Gemini" experiment videos can refer to
