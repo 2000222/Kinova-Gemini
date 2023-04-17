@@ -1,7 +1,7 @@
 # Kinova-Gemini
 We present the original “Kinova Gemini”, a robotic system that successfully implements interactive robot grasping or pick-and-place tasks with visual reasoning and conversational AI via Human Robot Interaction (HRI) in three different application scenarios. 
 
-This work has been published by IEEE ROBIO 2022, which was completed in 2022.7 before the release of ChatGPT. 
+:smiley: This work has been published by IEEE ROBIO 2022, which was completed in 2022.7 before the release of ChatGPT. 
 
 
 
